@@ -8,8 +8,6 @@ Installation
 Usage
 Project Structure
 Example Output
-Contributing
-License
 
 Installation Prerequisites:
 Ensure you have the following installed:
@@ -53,7 +51,6 @@ CER for test-other: 0.0020595485028878967
 {'dev_clean': 0.000480581759616936, 'test-clean': 0.0015161220170302819, 'test-other': 0.0020595485028878967}
 
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
