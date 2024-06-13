@@ -1,6 +1,9 @@
 LibriSpeech ASR Evaluation
+
 This project uses the pre-trained Wav2Vec2 model from Facebook to transcribe audio files from the LibriSpeech dataset and evaluate the transcription accuracy using the Character Error Rate (CER) metric.
+
 Table of Contents:
+
 Installation
 Usage
 Project Structure
@@ -41,6 +44,7 @@ Calculate and print the Character Error Rate (CER) for the transcriptions.
 Project Structure
 transcribe.py: Main script to load data, transcribe audio, and calculate CER.
 requirements.txt: List of Python dependencies.
+
 Example Output
 
 CER for dev_clean: 0.000480581759616936
